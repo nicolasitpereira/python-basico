@@ -1,6 +1,4 @@
 from time import sleep
-v1 = 0
-v2 = 0
 opcao = 0
 v1 = int(input('Primeiro valor: '))
 v2 = int(input('Segundo valor: '))
